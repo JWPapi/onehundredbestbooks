@@ -1,5 +1,5 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import Head from &rsquo;next/head&rsquo;
+import styles from &rsquo;../styles/Home.module.css&rsquo;
 
 export default function Home() {
     return (
@@ -18,7 +18,7 @@ export default function Home() {
 
             <div className={styles.grid}>
                 <p className={styles.description}>
-                    A Revision and Update of Will Durant's 100 Best Books for an Education </p>
+                    A Revision and Update of Will Durant&rsquo;s 100 Best Books for an Education </p>
                 <p>
                     Long ago and far away Will Durant asked his readers to take a journey with him on mankind’s common cultural highway – a highway of the mind, the Road to Freedom! He asked us for
                     the price of a few hours a week to travel into unknown regions and unfamiliar zones, off the beaten track which he said led through to that wonderful Country of the Mind. Now the
@@ -121,7 +121,7 @@ export default function Home() {
 
                     <li> 16. A History of Technology and Invention: Progress through the Ages, ed. Maurice Daumas, trans. Eileen B. Hennessy, 3v. vol. 1 chs. 1-5</li>
 
-                    <li> 17. Fred S. Kleiner, Gardner's Art Through the Ages, 13th ed., ch. 1</li>
+                    <li> 17. Fred S. Kleiner, Gardner&rsquo;s Art Through the Ages, 13th ed., ch. 1</li>
 
                     <li> 11. Durant, vol. 1 ch. 6</li>
 
@@ -190,7 +190,7 @@ export default function Home() {
 
                     <li> 11. Durant, vol. 1 ch. 24</li>
 
-                    <li> 27. Wu Cheng'en, Monkey, trans. Arthur Waley</li>
+                    <li> 27. Wu Cheng&rsquo;en, Monkey, trans. Arthur Waley</li>
 
                     <li> 28. Cao Xueqin, The Dream of the Red Chamber</li>
 
@@ -482,7 +482,7 @@ export default function Home() {
 
                     <li> 47. Albert H. Hourani, A History of the Arab Peoples, chs. 1-9</li>
 
-                    <li> 48. Holy Qur'an* trans. A. Yusuf Ali</li>
+                    <li> 48. Holy Qur&rsquo;an* trans. A. Yusuf Ali</li>
 
                     <li> 11. Durant, vol. 4 chs. 10-14</li>
 
@@ -711,7 +711,7 @@ export default function Home() {
                 <ul className={styles.halfList}>
                     <li> 11. Durants, vol. 7 chs. 1-4</li>
 
-                    <li> 59. William Shakespeare, Selected Works,* Sonnets 29, 30, 33, 55, 64, 66, 71, 97, 106, 117, 138, 144, and 147, A Midsummer Night's Dream, Romeo and</li>
+                    <li> 59. William Shakespeare, Selected Works,* Sonnets 29, 30, 33, 55, 64, 66, 71, 97, 106, 117, 138, 144, and 147, A Midsummer Night&rsquo;s Dream, Romeo and</li>
                     <li> Juliet, The Merchant of Venice, Henry IV, Part 1, Henry IV Part 2, Julius Caesar, As You Like It, Hamlet, Othello, Timon of Athens, King Lear, Macbeth,</li>
                     <li> Cymbeline, and The Tempest</li>
 
@@ -798,11 +798,11 @@ export default function Home() {
 
                     <li> 11. Durants, vol. 8 chs. 5-8</li>
 
-                    <li> 65. John Milton, Selected Works, L'Allegro, Il Penseroso, Lycidias, Areopagitica, and Paradise Lost</li>
+                    <li> 65. John Milton, Selected Works, L&rsquo;Allegro, Il Penseroso, Lycidias, Areopagitica, and Paradise Lost</li>
 
                     <li> 11. Durants, vol. 8 chs. 9-11</li>
 
-                    <li> 66. Jonathan Swift, Gulliver's Travels*</li>
+                    <li> 66. Jonathan Swift, Gulliver&rsquo;s Travels*</li>
 
                     <li> 60. Beards, vol. 1 ch. 3</li>
 
@@ -849,12 +849,12 @@ export default function Home() {
                 </ul>
                 <p>We now pass quickly into the light of the Sun King and find ourselves illuminated by the irredescence of genius and mediocrity. Scholars are wont to say that after that brilliant
                    coming of the age of reason Europe suffered a set-back and fell from the high level of the Renaissance. In a sense it is true: the seventeenth century is an epoch of religious
-                   conflict, the period of that Thirty Years's War which ruined Germany, and that Puritan Revolution which put an end for a century to the poetic and artistic exuberance of England.
+                   conflict, the period of that Thirty Years&rsquo;s War which ruined Germany, and that Puritan Revolution which put an end for a century to the poetic and artistic exuberance of England.
                    But even so consider the roster of that period. It is the time of the Three Musketeers: Richelieu and Mazarin strengthen the central government of France against the feudal barons,
                    and bequeath a united and powerful state to Louis XIV as an organized medium of security and order for the fine flowering of French culture under Voltaire. La Rochefoucauld gives
                    finished form to the cynicism of theaters and courts; Moliere fights with ridicule the hypocrisies and conceits of his people, and Pascal mingles, in passionate rhetoric,
                    mathematics and piety. In England Milton writes flourishing prose and some tolerable verse, but we shall always be prepared to doubt when necessary the speeches he puts into the
-                   mouths of angels. And Jonathan Swift publishes at his leisure the most famous and savage satire ever directed at mankind—Gulliver's Travels. Read carefully here for the misanthropic
+                   mouths of angels. And Jonathan Swift publishes at his leisure the most famous and savage satire ever directed at mankind—Gulliver&rsquo;s Travels. Read carefully here for the misanthropic
                    Swift is writing about you, dear reader! Meanwhile, Thomas Hobbes is busy reformulating Machiavelli for the seventeenth century English, and on the continent Spinoza is completing
                    the most precious production of modern philosophy. Read the Ethics once and then re-read it, for it will not be the same book the second time around. After you have completed the
                    second reading, you will forever be a lover of philosophy. Leibniz writes philosophy also and contributes mightily to science too. But no one in the history of humanity did more for
@@ -1222,7 +1222,7 @@ export default function Home() {
                 lost his seat due to his opposition to the “wicked” Mexican war; after 1860 the hour had struck—for both him and his wounded nation . . . the rest is history. </p><p>
                 The Beards due more than an adequate job detailing the Civil War, and Fueter narrates the same war in his volume as well as what was happening outside the United States. With him we
                 cross over to Russia and wander without hurry to the peak of the mountain range of Russian literature. Here we shall entreat you to read the greatest novel ever written: Fyodor
-                Dostoyevsky's The Brothers Karamazov. It is in Dostoyevsky that we find our secret hearts revealed, and our secret longing understood. Leaving Russia we shall ask you to summon the
+                Dostoyevsky&rsquo;s The Brothers Karamazov. It is in Dostoyevsky that we find our secret hearts revealed, and our secret longing understood. Leaving Russia we shall ask you to summon the
                 will to power through Nietzsche’s best works before returning back to America again. But before doing so, we shall sample of the archetypal African novel in English Things Fall Apart,
                 and partake of a taste of late nineteenth century African culture. </p><p>
                 But before leaving these nineteenth century Americans, possessed of every virtue but self-restraint, we shall read the biography of the father of our machine age: Thomas Alva Edison.
