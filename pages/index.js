@@ -65,7 +65,7 @@ export default function Home() {
                 science. As an aside, starred books (*) are recommended for purchase for their inherent value and valuable place they will hold in any educated person’s library. Many can be purchased
                 second hand or, if one wishes to truly pamper oneself, purchased brand new online. And so we begin. . . . </p>
                 <h2> Group I – African and Asian Beginnings </h2>
-                <p className{style.w100}>Starred (*) books are recommended for purchase</p>
+                <p className{styles.w100}>Starred (*) books are recommended for purchase</p>
                 <ul className={styles.halfList}>
                     <li>1. D. Q. McInerny, Being Logical*</li>
 
