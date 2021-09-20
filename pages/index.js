@@ -375,8 +375,8 @@ export default function Home() {
                 music with a chapter on Greece. Long hailed as one of the best histories of music, we start our venture here happily and follow Lang’s concise prose through millennia of western music
                 that still manages to have a say, or strives to articulate on subjects germane to music but more grounded in general history. Life without music, as Nietzsche said, would be a
                 mistake. </p><p>
-                Taton and his contributors take up the tale of Greek science and how it replaced superstition slowly; how Hippocrates became, after many centuries of physicians, the “Father of
-                Medicine," though doubtless there were legions of rational healers that preceded him. But in Western minds the first Westerner to do something must have been the first ever! Taton et
+                Taton and his contributors take up the tale of Greek science and how it replaced superstition slowly; how Hippocrates became, after many centuries of physicians, the &ldquo;Father of
+                Medicine&rdquo; though doubtless there were legions of rational healers that preceded him. But in Western minds the first Westerner to do something must have been the first ever! Taton et
                 al. will reveal to us how Archimedes solved his theorems while a soldier, symbolizing the eternal opposition of war and art, stabbed him to death. Lastly, the waning of Greek thought
                 is traced by Copleston before we return to Durant who then summarizes the major Hellenic accomplishments. When shall we see such an age again?</p>
                 <h2> Group III - Ancient Rome </h2>
